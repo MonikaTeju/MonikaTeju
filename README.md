@@ -1,3 +1,18 @@
+I'm a success-driven, determined Junior Frontend developer. I have Hands-On-Experienceusing HTML CSS & Javascript to build accessible component-based web pages and systems.
+A passionate person willing to learn more technologies to become a better developer than I was yesterday. So determined and result orietend.
+
+⚡ "I CAN DO IT BY ALL MEANS, NO EXCUSE NOT TO" ⚡
+
+
+
+
+
+
+
+
+
+
+
 🔭 I’m currently working on Personal Portfolio.
 
 🌱 I’m currently learning JavaScript & React
