@@ -17,9 +17,9 @@ A passionate person willing to learn more technologies to become a better develo
 
 🙋‍♂️ <strong>About Me </strong>
 
-🔭 I’m currently working on Personal Portfolio.
+🔭 I’m currently working on E-Commerce Website.
 
-🌱 I’m currently learning JavaScript & React
+🌱 I’m currently learning JavaScript & React.
 
 👯 I’m looking to collaborate on OpenSource Projects
 
